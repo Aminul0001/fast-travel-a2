@@ -1,0 +1,13 @@
+@media screen and (max-width : 576px) {
+    
+/* nav responsive */
+.nav-container{
+    flex-direction: column;
+}
+
+.navigator > ul li{
+    padding: 10px;
+}
+
+
+}
