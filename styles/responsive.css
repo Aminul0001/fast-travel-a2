@@ -28,4 +28,28 @@ form{
     padding-left: 0;
 }
 
+footer{
+    width: 100%;
+}
+
+#footer-title{
+    padding-left: 100px;
+  }
+
+  .new-content p {
+    width: 350px;
+    padding-left: 40px;
+  }
+
+  .new-logo {
+   display: flex;
+   margin-left: 150px;
+  }
+
+  .new-logo img {
+    width: auto;
+    height: 24px;
+  }
+  
+
 }

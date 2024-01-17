@@ -18,7 +18,7 @@ font-size: 36px;
 font-weight: 800;
 }
 
-#nav-name-travel{
+.nav-name-travel{
 color: #FF5400;
 font-size: 36px;
 font-weight: 800;
@@ -133,3 +133,54 @@ form{
     align-items: center;
     gap: 20px;
 }
+
+
+/* Footer section */
+
+.new-section {
+    background: rgba(19, 19, 24, 0.05);
+  }
+  
+  .new-left {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    padding-top: 110px;
+  }
+
+  #footer-title{
+    padding-left: 500px;
+  }
+  
+  .new-content p {
+    color: #5a5a5d;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    width: 700px;
+    padding-left: 350px;
+  }
+  
+  .new-logo {
+    text-align: center;
+    border-bottom: 2px solid rgba(19, 19, 24, 0.1);
+    margin: 0px 284px 50px 284px;
+  }
+  
+  .new-logo img {
+    margin: 33px 0 50px 0;
+    width: auto;
+    height: 24px;
+  }
+  
+  #copyright{
+    color: #131318;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    padding-bottom: 110px;
+ 
+  }
