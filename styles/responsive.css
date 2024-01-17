@@ -10,4 +10,22 @@
 }
 
 
+.banner-elements{
+    width: 400px;
+height: 900px;
+
+
+}
+
+form{
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.search-section{
+    width: fit-content;
+    padding-left: 0;
+}
+
 }
